@@ -1,4 +1,4 @@
-# Formulário de Cadastro | Desafio Stage 03 - Avançado
+# Formulário de Cadastro | Desafio Explorer Stage 03 (avançado)
 
 ![](https://i.imgur.com/ftxEywo.png)
 
