@@ -145,6 +145,13 @@ select:focus {
   outline: none;
 }
 
+button:focus {
+  border: 2px solid #f7604f;
+  box-shadow: 0 0 3px #f7604f;
+  outline-offset: 0px;
+  outline: none;
+}
+
 /* Mostra quando o valor digitado for inválido */
 /* Removi para tentar descobrir como faço para só mostrar depois que o valor digitado é inválido */ 
 /* input:invalid {
